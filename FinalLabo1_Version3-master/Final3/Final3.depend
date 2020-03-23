@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1533924718 source:/home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Pedido.h"
+	"Localidad.h"
+	"utn.h"
+	<ctype.h>
+
+1533919665 source:/home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Pedido.h"
+
+1533919665 /home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/ArrayList.h
+
+1533923475 /home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/Pedido.h
+	"ArrayList.h"
+
+1533923585 source:/home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/Pedido.c
+	"Pedido.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533919665 source:/home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1533919665 /home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/utn.h
+
+1533920219 source:/home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Pedido.h"
+
+1533919665 /home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/Parser.h
+	"ArrayList.h"
+
+1533922281 source:/home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/Localidad.c
+	"Pedido.h"
+	"Localidad.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533922143 /home/facundo/Documentos/UTN/Ejercitacion/FinalLabo1/Final3/Localidad.h
+	"ArrayList.h"
+

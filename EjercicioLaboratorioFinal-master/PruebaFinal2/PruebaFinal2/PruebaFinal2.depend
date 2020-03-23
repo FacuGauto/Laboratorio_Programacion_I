@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1533686418 source:/home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Pedido.h"
+
+1532641241 /home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/ArrayList.h
+
+1533912817 /home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/Pedido.h
+	"ArrayList.h"
+
+1533915185 source:/home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Pedido.h"
+	"Localidad.h"
+
+1533912831 source:/home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/Pedido.c
+	"Pedido.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532641241 source:/home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532641241 /home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/utn.h
+
+1533912180 /home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/Parser.h
+	"ArrayList.h"
+
+1533912273 source:/home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Pedido.h"
+
+1533915759 source:/home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/Localidad.c
+	"ArrayList.h"
+	"Pedido.h"
+	"Localidad.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533915733 /home/facundo/Documentos/UTN/Labo1/PruebaFinal2/PruebaFinal2/Localidad.h
+

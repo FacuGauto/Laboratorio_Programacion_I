@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1533686418 source:/home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Pedido.h"
+
+1532641241 /home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/ArrayList.h
+
+1533699799 source:/home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Pedido.h"
+	"Localidad.h"
+
+1533699755 source:/home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Pedido.h"
+
+1532641241 source:/home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532641241 /home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/utn.h
+
+1533699111 /home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/Pedido.h
+	"ArrayList.h"
+
+1533699104 source:/home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/Pedido.c
+	"Localidad.h"
+	"Pedido.h"
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533697623 /home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/Parser.h
+
+1533700920 source:/home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/Localidad.c
+	"ArrayList.h"
+	"Localidad.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pedido.h"
+
+1533700681 /home/facundo/Documentos/UTN/Labo1/EjercicioFinal/EjercicioFinal/Localidad.h
+	"ArrayList.h"
+
