@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1529016828 source:/home/alumno/ArrayList_2018/clase/Clase 14-06/proyectoDelDia/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"persona.h"
+
+1529013260 /home/alumno/ArrayList_2018/clase/Clase 14-06/proyectoDelDia/ArrayList.h
+
+1529016812 source:/home/alumno/ArrayList_2018/clase/Clase 14-06/proyectoDelDia/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529016746 /home/alumno/ArrayList_2018/clase/Clase 14-06/proyectoDelDia/persona.h
+
+1529017137 source:/home/alumno/Escritorio/PracticaParcial2/proyectoDelDia/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529017137 /home/alumno/Escritorio/PracticaParcial2/proyectoDelDia/ArrayList.h
+
+1529017136 source:/home/alumno/Escritorio/PracticaParcial2/proyectoDelDia/persona.c
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529017136 /home/alumno/Escritorio/PracticaParcial2/proyectoDelDia/persona.h
+
+1529022776 source:/home/alumno/Escritorio/PracticaParcial2/proyectoDelDia/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"persona.h"
+

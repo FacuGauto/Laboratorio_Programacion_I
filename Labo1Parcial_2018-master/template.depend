@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1524699666 source:d:\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524700062 h"
+
+1524691839 source:d:\template\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524691839 
+
+1524691839 d:\template\utn.h
+
+1524700062 source:d:\template\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524700062 d:\template\fantasma.h
+
+1526445328 source:/home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicacion.h"
+
+1526200500 /home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/cliente.h
+
+1526188038 /home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/utn.h
+
+1526187830 source:/home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526445294 source:/home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+	"informar.h"
+
+1526444307 /home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/publicacion.h
+	"cliente.h"
+
+1526445257 source:/home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"cliente.h"
+
+1526445818 source:/home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicacion.h"
+	"informar.h"
+
+1526446895 /home/facundo/Documentos/UTN/Parcial10-05/primer_parcial-Labo1/informar.h
+
+1526601639 source:d:\alum\parcial_hecho_en_casa\labo1parcial_2018\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicacion.h"
+
+1526594552 d:\alum\parcial_hecho_en_casa\labo1parcial_2018\cliente.h
+
+1526601276 d:\alum\parcial_hecho_en_casa\labo1parcial_2018\utn.h
+
+1526594552 d:\alum\parcial_hecho_en_casa\labo1parcial_2018\publicacion.h
+	"cliente.h"
+
+1526599960 source:d:\alum\parcial_hecho_en_casa\labo1parcial_2018\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+	"publicacion.h"
+	"informar.h"
+
+1526599813 d:\alum\parcial_hecho_en_casa\labo1parcial_2018\informar.h
+
+1526594552 source:d:\alum\parcial_hecho_en_casa\labo1parcial_2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+	"informar.h"
+
+1526594552 source:d:\alum\parcial_hecho_en_casa\labo1parcial_2018\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"cliente.h"
+
+1526601245 source:d:\alum\parcial_hecho_en_casa\labo1parcial_2018\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

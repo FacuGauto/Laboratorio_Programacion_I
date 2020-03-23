@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1532630053 source:/home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532630067 /home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/ArrayList.h
+
+1532616167 source:/home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"utn.h"
+	"Parser.h"
+	"View.h"
+	"Deposito.h"
+
+1532629144 /home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/utn.h
+
+1532617298 source:/home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532632637 source:/home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Parser.h"
+	"utn.h"
+	"Deposito.h"
+
+1532629756 source:/home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/Deposito.c
+	"Deposito.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"utn.h"
+
+1532629765 /home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/Deposito.h
+	"ArrayList.h"
+
+1532619686 /home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/Parser.h
+
+1532629924 source:/home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/View.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"utn.h"
+	"View.h"
+	"Parser.h"
+	"Deposito.h"
+
+1531889261 /home/facundo/Documentos/UTN/Labo1/Final/PracticaFinal/IntegradorFacu/parcialIntegrador/View.h
+

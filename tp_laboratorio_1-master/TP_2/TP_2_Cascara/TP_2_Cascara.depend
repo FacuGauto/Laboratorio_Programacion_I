@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1526012023 source:/home/facundo/Documentos/UTN/Trabajos_Practicos/TP2/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1526012615 /home/facundo/Documentos/UTN/Trabajos_Practicos/TP2/TP_2_Cascara/funciones.h
+
+1524691840 /home/facundo/Documentos/UTN/Trabajos_Practicos/TP2/TP_2_Cascara/utn.h
+
+1524691840 source:/home/facundo/Documentos/UTN/Trabajos_Practicos/TP2/TP_2_Cascara/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526011980 source:/home/facundo/Documentos/UTN/Trabajos_Practicos/TP2/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1524691840 source:/home/facundo/Documentos/UTN/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_2/TP_2_Cascara/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524691840 /home/facundo/Documentos/UTN/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_2/TP_2_Cascara/utn.h
+
+1526015236 source:/home/facundo/Documentos/UTN/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_2/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1526015118 /home/facundo/Documentos/UTN/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_2/TP_2_Cascara/funciones.h
+
+1526017964 source:/home/facundo/Documentos/UTN/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_2/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+

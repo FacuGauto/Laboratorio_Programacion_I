@@ -1,0 +1,10 @@
+
+	PELICULAS.
+
+Titulo: Volver al futuro
+Genero: ciencia-ficcion
+Duracion: 106
+Descripcion: dasdada
+Puntaje: 
+Link de la imagen: fsf.jpg
+Id: 

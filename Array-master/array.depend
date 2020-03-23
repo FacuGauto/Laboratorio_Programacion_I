@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522969878 source:d:\alum\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522972947 source:d:\alum\array\lib.c
+	<stdio.h>
+	<stdlib.h>
+

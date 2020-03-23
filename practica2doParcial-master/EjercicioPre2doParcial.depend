@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1529628256 source:/home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/Empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529621120 /home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/Empleado.h
+
+1529626736 source:/home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529626685 /home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/ArrayList.h
+
+1529623394 source:/home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1529625003 source:/home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529543258 /home/alumno/Escritorio/Jueves21Practica_Parcial/EjercicioPre2doParcialV2/Parser.h
+	"ArrayList.h"
+
+1529856342 source:/home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529856296 /home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/ArrayList.h
+
+1529776525 source:/home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/Empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529776525 /home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/Empleado.h
+
+1529890066 source:/home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530212817 source:/home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+	"utn.h"
+	<string.h>
+
+1529776525 /home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/Parser.h
+	"ArrayList.h"
+
+1529960618 /home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/utn.h
+
+1529977241 source:/home/facundo/Documentos/UTN/Programacion1/PracticaSegundoParcial/practica2doParcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

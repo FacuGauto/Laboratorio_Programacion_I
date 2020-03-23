@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1530226838 source:/home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530225418 /home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.h
+
+1530230891 source:/home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"utn.h"
+
+1530227469 /home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.h
+	"ArrayList.h"
+
+1530230965 source:/home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.c
+	"ArrayList.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+
+1530229714 source:/home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529584990 /home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.h
+	"ArrayList.h"
+
+1530221709 source:/home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1530221709 /home/alumno/SegundoParcial/SEGUNDO_PARCIAL/Ejercicio2doParcial/utn.h
+

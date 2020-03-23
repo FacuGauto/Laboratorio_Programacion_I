@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1527914582 source:/home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527914693 /home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/funciones.h
+	"movie.h"
+
+1528066325 /home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/movie.h
+
+1528257040 source:/home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"movie.h"
+	"utn.h"
+
+1524691840 /home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/utn.h
+
+1528066332 source:/home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/movie.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	"utn.h"
+
+1524691840 source:/home/facundo/Documentos/UTN/Programacion1/Trabajos_Practicos/TPs_Github/tp_laboratorio_1/TP_3/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

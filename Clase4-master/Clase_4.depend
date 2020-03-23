@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522886105 source:d:\clase4\clase_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1522888012 source:d:\clase4\clase_4\lib.c
+	<stdio.h>
+	<stdlib.h>
+
+1522885868 d:\clase4\clase_4\lib.h
+

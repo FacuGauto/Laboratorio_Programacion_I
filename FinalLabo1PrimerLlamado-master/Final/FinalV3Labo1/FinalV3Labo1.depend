@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1532641241 source:d:\final27-07\final\finalv3labo1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532645680 .h"
+
+1532641241 d:\final27-07\final\finalv3labo1\arraylist.h
+
+1532643433 source:d:\final27-07\final\finalv3labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Menu.h"
+
+1532645059 
+
+1532641241 source:d:\final27-07\final\finalv3labo1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532641241 d:\final27-07\final\finalv3labo1\utn.h
+
+1532648468 source:d:\final27-07\final\finalv3labo1\mercaderia.c
+	"Mercaderia.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"localidad.h"
+
+1532646651 d:\final27-07\final\finalv3labo1\mercaderia.h
+	"ArrayList.h"
+
+1532644368 source:d:\final27-07\final\finalv3labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"utn.h"
+	"Mercaderia.h"
+
+1532644368 a.h"
+
+1532643387 d:\final27-07\final\finalv3labo1\menu.h
+
+1532645680 source:d:\final27-07\final\finalv3labo1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"utn.h"
+	"Menu.h"
+	"parser.h"
+	"Mercaderia.h"
+	"localidad.h"
+
+1532643008 d:\final27-07\final\finalv3labo1\parser.h
+
+1532645059 source:d:\final27-07\final\finalv3labo1\localidad.c
+	"Localidad.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532645059 d:\final27-07\final\finalv3labo1\localidad.h
+
+1532641241 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532641241 /home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/ArrayList.h
+
+1532890209 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/localidad.c
+	"localidad.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532645059 /home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/localidad.h
+
+1532890252 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/Mercaderia.c
+	"Mercaderia.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"localidad.h"
+
+1532890324 /home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/Mercaderia.h
+	"ArrayList.h"
+
+1532644368 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"parser.h"
+	"utn.h"
+	"Mercaderia.h"
+
+1532643008 /home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/parser.h
+
+1532641241 /home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/utn.h
+
+1532641241 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1532812342 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Menu.h"
+
+1532812316 /home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/Menu.h
+
+1532909256 source:/home/facundo/Documentos/UTN/Labo1/Final27-07/Final27-07/Final/FinalV3Labo1/Menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"utn.h"
+	"Menu.h"
+	"parser.h"
+	"Mercaderia.h"
+	"localidad.h"
+

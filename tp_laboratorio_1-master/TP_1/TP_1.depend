@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1523592044 source:/home/facundo/Documentos/UTN/TP_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523674796 source:/home/facundo/Documentos/UTN/TP_1/lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523660440 /home/facundo/Documentos/UTN/TP_1/lib.h
+
+1523573464 source:c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\lib.c
+	"lib.h"
+
+1523573464 c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\lib.h
+
+1523575779 source:c:\users\alumno\desktop\nueva carpeta\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
